@@ -5,7 +5,7 @@ import os
 
 INPUT_IMAGE_PATH = 'dog_standing_on_4_water_bottles.jpg'
 
-MAX_HEIGHT = 96 # The maximum height in blocks for the output. Width will be scaled automatically.
+MAX_HEIGHT = 128 # The maximum height in blocks for the output. Width will be scaled automatically.
 
 # The direction the player will be looking from. This determines which block face is used.
 # Options: "face_0_Right_PlusX", "face_1_Left_MinusX", "face_4_Front_PlusZ", "face_5_Back_MinusZ"
