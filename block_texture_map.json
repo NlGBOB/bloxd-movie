@@ -24986,5 +24986,22 @@
       "face_4_Front_PlusZ": 0,
       "face_5_Back_MinusZ": 0
     }
+  },
+  "2512": {
+    "name": "Fertilised Soil",
+    "texturePalette": [
+      {
+        "atlasFileIndex": 3,
+        "textureIndexOnAtlas": 36
+      }
+    ],
+    "faceMap": {
+      "face_0_Right_PlusX": 0,
+      "face_1_Left_MinusX": 0,
+      "face_2_Top_PlusY": 0,
+      "face_3_Bottom_MinusY": 0,
+      "face_4_Front_PlusZ": 0,
+      "face_5_Back_MinusZ": 0
+    }
   }
 }
